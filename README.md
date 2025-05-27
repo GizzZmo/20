@@ -1,5 +1,5 @@
 # 20
-20 Tracks Album
+**20 Tracks Album
 
 Jon@rve's Lyrical Journey
 This collection of 20 songs delves into the artistic soul of Jon@rve (Jon Arve Ovesen), exploring his challenges, inspirations, and unique character as a musician. Each song follows a structured format of Intro, Verse, Refrain, Verse 2, Refrain, Verse 3, Bridge, Refrain, and Outro, complete with suggested chord progressions. The "red line" in each song represents a core thematic element or a recurring emotional thread that ties the narrative together.
@@ -28,7 +28,7 @@ Song Index
 
 ---
 Echoes in the Silence
-  Red Line: The struggle to find notes amidst creative drought.
+  *Red Line: The struggle to find notes amidst creative drought.
 
 Intro
 (Am - G - C - F)
