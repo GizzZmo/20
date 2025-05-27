@@ -26,7 +26,8 @@ Song Index
 19. Faded Ink, Timeless Tune
 20. The Guiding Echo
 
-1. Echoes in the Silence
+---
+Echoes in the Silence
   Red Line: The struggle to find notes amidst creative drought.
 
 Intro
